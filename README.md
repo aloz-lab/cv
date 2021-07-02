@@ -1,7 +1,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[CV Screenshot][product-screenshot]
+[![CV Screenshot][product-screenshot]]
 
 My resume online.  
 
