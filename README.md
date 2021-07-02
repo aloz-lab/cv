@@ -1,9 +1,9 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![AloziPhoto Screenshot][product-screenshot]]
+[CV Screenshot][product-screenshot]
 
-Portfolio of my own pictures. Pictures taken during various travels.  
+My resume online.  
 
 Demo link : http://aloz-lab.github.io/cv
 
