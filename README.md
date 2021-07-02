@@ -5,17 +5,17 @@
 
 Portfolio of my own pictures. Pictures taken during various travels.  
 
-Demo link : http://aloz-lab.github.io/Portfolio
+Demo link : http://aloz-lab.github.io/cv
 
-Project Link: https://github.com/aloz-lab/Portfolio
+Project Link: https://github.com/aloz-lab/cv
 
 ### Built With
 
 * HTML
-* CSS/SCSS
-* jQuery
+* CSS
+* Bootstrap
 * VS Code
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
-[product-screenshot]: images/CV/AloziPhoto.png
+[product-screenshot]: images/CV.png
